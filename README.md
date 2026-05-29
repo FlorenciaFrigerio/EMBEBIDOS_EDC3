@@ -53,8 +53,8 @@ El sistema cumple con la **arquitectura de coprocesamiento** exigida por la cons
 
 ```
 .
-├── README.md                     ← este archivo
-├── esp32/                        ← firmware del microcontrolador (ESP-IDF v6.0)
+├── README.md                    
+├── esp32/                        
 │   ├── main.c
 │   ├── inc/
 │   │   ├── parametros.h
@@ -253,8 +253,4 @@ El sensor está conectado **exclusivamente al ESP32**. Sin el microcontrolador, 
 
 ---
 
-## 👤 Autor
-
-**[TU NOMBRE COMPLETO ACÁ]**
-Sistemas Embebidos II — 3er EDC
 Mayo 2026
